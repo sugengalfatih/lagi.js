@@ -1,0 +1,2 @@
+# lagi.js
+lagi
